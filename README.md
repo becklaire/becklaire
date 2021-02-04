@@ -1,5 +1,5 @@
 Hi there 👋 <br>
-I'm a junior Supply Chain Engineer who likes continuous improvement and coding on the side. I started my #100DaysOfCode journey to learn more about HTML and CSS, but I'm hoping to learn more about other languages... I have many projects to work on!
+I'm a junior Supply Chain Engineer who likes continuous improvement and coding on the side. I started my <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> journey to learn more about HTML and CSS, but I'm hoping to learn more about other languages... I have many projects to work on!
 <br><br>
 ### 📈 GitHub Stats
 <a href="https://github.com/lekurozifuru">
@@ -17,4 +17,4 @@ I'm always looking for improvement, so if you need something or want to chat, yo
 <br><br>
 
 ### 🤔 Wao, for a newbie, this cover page is great!
-Well, there are billions of help donw here. Check <a href="https://daily.dev/posts/creating-a-killer-github-profile-readme-part-1">Bradon Coyer's tutorial</a> for more information.
+Well, I didn't do it alone. Check <a href="https://daily.dev/posts/creating-a-killer-github-profile-readme-part-1">Bradon Coyer's tutorial</a> for more information.
