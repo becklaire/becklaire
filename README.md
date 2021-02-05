@@ -17,5 +17,5 @@ I'm always looking for improvement, so if you need something or want to chat, yo
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/lekurozifuru)
 <br><br>
 
-### 🤔 Wao, for a newbie, this cover page is great!
+### 🤔 Wao, for a newbie, this cover page is ~~overkill~~ great!
 Well, I didn't do it alone. Check <a href="https://daily.dev/posts/creating-a-killer-github-profile-readme-part-1">Bradon Coyer's tutorial</a> for more information.
