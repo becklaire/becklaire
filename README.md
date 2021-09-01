@@ -1,6 +1,6 @@
 Hi there 👋 <br>
 I'm a junior Supply Chain Engineer who likes continuous improvement and coding on the side. I started my <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> journey to learn more about HTML and CSS, but I'm hoping to learn more about other languages... I have many projects to work on!<br>
-I'm on <Hold> right now and I'm hoping to start things over when things get better!
+I'm "On Hold" right now and I'm hoping to start things over when things get better!
 ❤️ Many thanks to <a href="https://www.freecodecamp.org/">freecodecamp</a> for helping people like me!
 <br><br>
 ### 📈 GitHub Stats
