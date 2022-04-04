@@ -1,4 +1,4 @@
-Hi there 👋 <br>
+### Hi there 👋
 Junior Project Leader the day, curious (but not so) the night. I started my <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> journey to learn more about HTML and CSS, but I'm hoping to learn more about other languages... I have many projects to work on!<br>
 I'm "On Hold" however due to the "lack of time" but mainly to the lack of motivation. I'm might start again one day?<br>
 ❤️ Many thanks to <a href="https://www.freecodecamp.org/">freecodecamp</a> for helping people like me!
