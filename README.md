@@ -4,10 +4,10 @@ I'm "On Hold" however due to the lack of time but mainly of motivation. I'm migh
 ❤️ Many thanks to <a href="https://www.freecodecamp.org/">freecodecamp</a> for helping people like me!
 <br><br>
 ### 📈 GitHub Stats
-<a href="https://github.com/lekurozifuru">
+<a href="https://github.com/becklaire">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekurozifuru&theme=gotham" />
 </a>
-<a href="https://github.com/lekurozifuru">
+<a href="https://github.com/becklaire">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lekurozifuru&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Claire's GitHub Stats" />
 </a>
 <br><br>
