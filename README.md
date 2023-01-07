@@ -5,10 +5,10 @@ I'm "On Hold" however due to the lack of time but mainly of motivation. I'm migh
 <br><br>
 ### 📈 GitHub Stats
 <a href="https://github.com/becklaire">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekurozifuru&theme=gotham" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becklaire&theme=gotham" />
 </a>
 <a href="https://github.com/becklaire">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lekurozifuru&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Claire's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=becklaire&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Claire's GitHub Stats" />
 </a>
 <br><br>
 
