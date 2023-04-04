@@ -1,6 +1,6 @@
 ### Hiya 👋
 Personal archives of my code snippets.<br>
-❤️ Many thanks to <a href="https://www.freecodecamp.org/">freecodecamp</a> for helping people to learn how to code!
+❤️ Many thanks to <a href="https://www.freecodecamp.org/">freecodecamp</a> for helping people learn how to code!
 <br><br>
 
 ### 📈 GitHub Stats
